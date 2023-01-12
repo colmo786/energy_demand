@@ -23,4 +23,4 @@ La solución tiene como tareas macro:
 - [Postgres] Se persisten los resultados de cada experimento/pronóstico. Se mantiene la historia de pronósticos por modelo.
 - [Power Bi] Se publican los pronósticos e indicadores de performance de cada modelo, así como gráficos que buscan ayudar a la selección del mejor pronóstico cada mes.
 
-[Documento Entregable del Trabajo - EN ELABORACIÓN](./doc/TF OLMO - Draft.pdf)
+[Documento Entregable del Trabajo - EN ELABORACIÓN](.\doc\TF OLMO - Draft.pdf)
